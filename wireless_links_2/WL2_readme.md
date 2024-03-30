@@ -1,4 +1,4 @@
-### wireless_links_2:
+### 3) wireless_links_2:
 
 #### 1)
 In a radio system, there is a peaky obstacle at a distance \( d1 = (15+0.1a) \) km from the transmitting antenna. The optical axis of the system passes just below the top of the obstacle at a height \( h = (60+0.1a) \) m. The minimum distance of the system is \( d = (60+0.1a) \) km, the operating frequency is 500 MHz, and the gains of the transmitting and receiving antennas are \( GT = (15+0.1b) \) dB and \( GR = (18+0.1b) \) dB, respectively, and the received power is 1.5 nW. Calculate the transmitted power.
